@@ -1,0 +1,1559 @@
+
+
+
+<!doctype html>
+
+  
+    <html lang="en">
+  
+
+<head>
+  <meta charset="utf-8">
+  
+    <meta name="google-site-verification" content="uxHe9lq5N8L3vRt5jvk7guDcU7AXVdTkbvpd5R9pF7E" />
+    <script src="//code.jquery.com/jquery-1.7.2.min.js"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+</script>
+
+<!-- Start Google Tag Manager (HEAD) -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-BLR8');</script>
+<!-- End Google Tag Manager (HEAD) -->
+
+
+  <title>Wave &bull; 
+    Willow Cleaning Services &bull;
+Products & Services</title>
+  <link rel="apple-touch-icon" sizes="180x180" href="https://d1550azcfnhz8l.cloudfront.net/public/wavicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="https://d1550azcfnhz8l.cloudfront.net/public/wavicon/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="https://d1550azcfnhz8l.cloudfront.net/public/wavicon/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="https://d1550azcfnhz8l.cloudfront.net/public/wavicon/site.webmanifest">
+  <link rel="mask-icon" href="https://d1550azcfnhz8l.cloudfront.net/public/wavicon/safari-pinned-tab.svg" color="#308df8">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="msapplication-square150x150logo" content="https://d1550azcfnhz8l.cloudfront.net/public/wavicon/mstile-150x150.png">
+  <meta name="msapplication-square310x310logo" content="https://d1550azcfnhz8l.cloudfront.net/public/wavicon/mstile-310x310.png">
+  <meta name="msapplication-square70x70logo" content="https://d1550azcfnhz8l.cloudfront.netpublic/wavicon/mstile-70x70.png">
+  <meta name="msapplication-wide310x150logo" content="https://d1550azcfnhz8l.cloudfront.net/public/wavicon/mstile-310x150.png">
+  <meta name="msapplication-TileColor" content="#2d89ef">
+
+  
+    
+    <link rel="stylesheet" href="https://d1550azcfnhz8l.cloudfront.net/branches/main/buoyant-app.css" />
+  
+    <link rel="stylesheet" href="https://d1550azcfnhz8l.cloudfront.net/branches/main/buoyant-shims.css" />
+
+
+  
+  
+  
+    <link rel="stylesheet" href="https://d1lchsxkq6tidf.cloudfront.net/3.0.1/assets/style.css" />
+  
+
+  
+  
+
+
+<script src="https://dwdqz3611m4qq.cloudfront.net/static-assets/prod/global/assets/js/vendor/amplitude/amplitude-8.21.9-min.gz.js"></script>
+<script type="text/javascript">
+if (window.amplitude) {
+  window.amplitude.getInstance().init("34a76f6e38ab182d418e3abcdac0c208", null, {
+    cookieName: "amplitude",
+  });
+}
+</script>
+
+
+<script type="text/javascript">
+  var canIdentify = true;
+  window.WaveAnalytics = {
+    identify: function(userId, businessId, attributes) {
+      if (canIdentify && window.amplitude) {
+        window.amplitude.getInstance().setUserId(userId + '--' + businessId);
+        if (attributes) {
+          window.amplitude.getInstance().setUserProperties(attributes);
+        }
+      }
+    },
+    track: function(name, attributes) {
+      if (window.amplitude) {
+        window.amplitude.getInstance().logEvent(name, attributes);
+      }
+    },
+  };
+  if (canIdentify) {
+    window.WaveAnalytics.identify('b924b1a4-9c08-4d1e-a1d4-a584c3f3c647', '10fbe75b-5988-4ab1-a8fe-c2478781bb38', {
+      'business-context': 'business',
+      'identity-business-id': '10fbe75b-5988-4ab1-a8fe-c2478781bb38',
+      'identity-user-id': 'b924b1a4-9c08-4d1e-a1d4-a584c3f3c647'
+    });
+  }
+</script>
+
+  
+
+
+<style type="text/css">
+  @media screen and (min-height: 550px) {
+    iframe#ada-chat-frame {
+      max-height: 90%;
+    }
+  }
+</style>
+
+<!-- Ada config and installation -->
+<script type="text/javascript">
+  // Resolve a globally accessible window.adaReady promise when Ada is ready
+  // Allows us to do window.adaReady.then(...) in our code
+  window.adaReady = new Promise(resolve => {
+    window.adaOnLoad = () => resolve();
+  })
+</script>
+<script
+  id="__ada"
+  data-lazy
+  data-handle="waveapps-gr"
+  onload="window.adaOnLoad()"
+  src="https://static.ada.support/embed2.js"
+></script>
+
+
+  
+
+</head>
+<body class=" accounting-settings-section wv-shim--modal wv-shim--notification ">
+  
+
+  
+  
+    <script type="text/javascript">
+      if (navigator.userAgent.match(/(iPad|iPhone|iPod)/g)) {
+        $('body').addClass('device-ios');
+      }
+      if (('ontouchstart' in window) || window.DocumentTouch && document instanceof DocumentTouch) {
+        $('body').addClass('device-touch');
+      }
+    </script>
+  
+
+  
+
+  <div class="wv-frame wv-frame--app">
+    <a href="#main-content" class="wv-skip-link">Skip to main content</a>
+    <div id="NavTopbarMenu"></div>
+    <div id="NavBottomMenu"></div>
+
+    <div class="wv-frame__global">
+      <svg class="wv-svg-icon"><use href="#wvi-attention"></use></svg>
+    </div>
+    <div class="wv-frame__wrapper">
+      
+      <div id="NavSidebar" class="wv-frame__navigation is-active"></div>
+
+      <div class="wv-frame__content">
+        
+        <div id="NavTopbar" class="is-active"></div>
+
+        <div class="wv-frame__content__body">
+          <div class="wv-frame__content__body__side wv-frame__content__body__side--left ">
+            
+          </div>
+          <main id="main-content" tabindex="-1" class="wv-frame__content__body__main">
+            <div class="wv-frame__content__body__main__wrapper ">
+              
+              <div id="BuoyantAppContainer" >
+                
+                <div id="AppContent">
+    
+
+
+
+
+
+
+<div class="js-page-error hide">
+  <div class="wv-notify--danger" role="alert">
+    <div class="wv-notify__icon-holder"><i class="wv-icon"></i></div>
+    <div class="wv-notify__content-wrapper">
+      <div class="wv-notify__content">
+        <div class="wv-notify__message">
+          <div class="wv-text">
+            Sorry, there was an error on the server. Please try again.
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    
+    
+
+    
+        
+<div class="row-fluid">
+  
+<div class='wv-header--page'>
+  <div class='wv-header__title'>
+    <h1 class='wv-heading--title'>
+      
+        Products & Services (Sales)
+      
+    </h1>
+  </div>
+
+  
+    <div class='wv-header__actions'>
+      <a class='wv-button--primary' href='/products/17354311/add/?from=selling'>
+        Add a product or service
+      </a>
+    </div>
+  
+</div>
+
+
+  <table class='wv-table'>
+    <thead class='wv-table__header'>
+      <tr class='wv-table__row'>
+        <th class='wv-table__cell'>Name</th>
+        <th class='wv-table__cell--amount'>Price</th>
+        <th class='wv-table__cell--actions'>Actions</th>
+      </tr>
+    </thead>
+    <tbody class='wv-table__body'>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Add-On - Oven Cleaning
+            
+            <p class='wv-table__cell--nested'>Interior degreased and deep-cleaned, including racks and door glass, restoring full visibility and removing baked-on buildup.</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $50.00
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/92960388/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/92960388/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Add-on Service: Fridge
+            
+            <p class='wv-table__cell--nested'>Fully emptied and sanitized interior, all shelves, drawers, and door seals scrubbed and restored to a fresh, food-safe condition.</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $50.00
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/94044379/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/94044379/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Add-On Service: Windows Blinds
+            
+            <p class='wv-table__cell--nested'>Wet/Dry Service
+
+Per Blind</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $10.00
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/112750332/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/112750332/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Add-On Vacuum Refresh
+            
+            <p class='wv-table__cell--nested'>Filters, brush roll, hose, wheel lubrication, steam sanitization.</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $25.00
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/137476843/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/137476843/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Add-On - Window Cleaning Per Pane (Interior)
+            
+            <p class='wv-table__cell--nested'>Window Track- 4 sides, Sills, Streak-free window pane</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $7.50
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/92842042/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/92842042/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Add-on - Window Scraping
+            
+            <p class='wv-table__cell--nested'>Required surcharge for added effort on windows. Priced Per Window</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $10.00
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/92842057/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/92842057/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Auto Detailing - Interior
+            
+            <p class='wv-table__cell--nested'>Interior and Doors</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $135.00
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/109434337/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/109434337/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Call-Out Base Rate
+            
+            <p class='wv-table__cell--nested'>Minimum Service Charge</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $90.00
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/109434336/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/109434336/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Carpet Shampooing - Overnight Fan
+            
+            <p class='wv-table__cell--nested'>Nightly charge for 30&quot; Drum Fan</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $10.00
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/124032441/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/124032441/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Carpet Shampooing - Per Room
+            
+            <p class='wv-table__cell--nested'>Vacuum and 4-pass hot extruder treatment
+4 hour minimum
+Dryer fan overnight included</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $50.00
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/110295074/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/110295074/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Cleaning - Mileage - 0.72/mi
+            
+            <p class='wv-table__cell--nested'>Mileage beyond 5 mi of Woodhaven Ln</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $0.72
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/131556230/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/131556230/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Cleaning Promotion: 50% off
+            
+            <p class='wv-table__cell--nested'>Promotional 50% off one cleaning hour</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $22.50
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/97135354/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/97135354/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Cleaning Service: Bi-Weekly Cleaning
+            
+            <p class='wv-table__cell--nested'>Discounted service for regular bi-weekly cleaning</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $35.00
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/112180582/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/112180582/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Cleaning Service - Call-out Rate
+            
+            <p class='wv-table__cell--nested'>Base service required for all customers. Service covers the first 2 hours of cleaning at a base rate of $45 per hour</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $90.00
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/91349267/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/91349267/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Cleaning Service - Deep Clean
+            
+            <p class='wv-table__cell--nested'>Minimum 8 Hours</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $45.00
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/121430571/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/121430571/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Cleaning Service - Initial Clean
+            
+            <p class='wv-table__cell--nested'>Initial clean prior to starting recurring services</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $45.00
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/131505008/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/131505008/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Cleaning Service - Monthly Recurring
+            
+            <p class='wv-table__cell--nested'>Rate for monthly cleaning services</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $40.00
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/92120219/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/92120219/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Cleaning Service: Move In Deep Cleaning
+            
+            <p class='wv-table__cell--nested'>Deep Clean w/ all add-ons and Carpet Shampooing</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $65.00
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/121187542/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/121187542/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Cleaning Service - Move Out Deep Clean
+            
+            <p class='wv-table__cell--nested'>Standard Move-Out cleaning tasks, No Add-On&#x27;s</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $45.00
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/137021294/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/137021294/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Cleaning - Weekly Cleaning
+            
+            <p class='wv-table__cell--nested'></p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $35.00
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/137020657/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/137020657/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Contract Pricing Payment
+            
+            <p class='wv-table__cell--nested'>Custom Agreed Amount Flat Rate</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $1,960.00
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/138412008/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/138412008/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Discount - Hours Over Quote
+            
+            <p class='wv-table__cell--nested'>Additional Hours beyond agreed rate (Waived)</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $0.01
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/92960389/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/92960389/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Flat Rate - Cleaning Service
+            
+            <p class='wv-table__cell--nested'></p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $140.00
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/139317298/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/139317298/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Individual LED Head
+            
+            <p class='wv-table__cell--nested'>https://www.menards.com/main/lighting-ceiling-fans/indoor-lighting/track-lighting/patriot-lighting-reg-step-cylinder-led-track-lighting-head/tk789/p-1519630536707-c-12470.htm</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $19.99
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/141162667/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/141162667/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            LED Lighting Replacement
+            
+            <p class='wv-table__cell--nested'>Removal of existing H Track lighting and replacement with Patriot H Track LED lights. with cleanup, verify level and functionality.</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $175.00
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/141162807/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/141162807/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Mileage Rate .56/Mi
+            
+            <p class='wv-table__cell--nested'>Used to calculate Mileage from Mankato. *Legacy Discount*</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $0.56
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/107029816/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/107029816/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Misc. Extra Service
+            
+            <p class='wv-table__cell--nested'>Custom service per client request</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $0.01
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/120049112/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/120049112/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Misc. Service - Garbage Haul Away
+            
+            <p class='wv-table__cell--nested'>Per trailer load</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $30.00
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/124032434/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/124032434/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Move-Out Clean
+            
+            <p class='wv-table__cell--nested'>Whole House Moveout</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $45.00
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/111798521/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/111798521/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Outdoor - Leaf Pickup - Medium Yard
+            
+            <p class='wv-table__cell--nested'>Raking and blowing</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $0.00
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/127433429/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/127433429/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Outdoor Medium Duty Work
+            
+            <p class='wv-table__cell--nested'></p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $120.00
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/124197161/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/124197161/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Patriot H-Track Lighting System
+            
+            <p class='wv-table__cell--nested'>https://www.menards.com/main/lighting-ceiling-fans/indoor-lighting/track-lighting/patriot-lighting-reg-step-light-3-light-led-track-lighting-set/tk791/p-1519630536327-c-12470.htm</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $74.99
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/141162634/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/141162634/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Post-Payment Accounting - Tip
+            
+            <p class='wv-table__cell--nested'>Additional Payment</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $27.50
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/92882203/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/92882203/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Special Project Rate
+            
+            <p class='wv-table__cell--nested'>Template. Whole project, quantity 1</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $140.00
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/109721909/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/109721909/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Special Service
+            
+            <p class='wv-table__cell--nested'>✅️ *** Template *** Delete and fill 🚩</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $45.00
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/121799040/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/121799040/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Special Service - 360⁰ Perimeter Lighting Project
+            
+            <p class='wv-table__cell--nested'>Clipping, and hanging of LED lights around perimeter of home. Including Eaves. Custom Pricing per Job.</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $350.00
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/119195166/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/119195166/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Special Service - Hedge Trimming
+            
+            <p class='wv-table__cell--nested'>Custom Request for hedge trimming landscaping service</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $177.50
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/121430117/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/121430117/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Special Service - Lawn Mowing
+            
+            <p class='wv-table__cell--nested'>Lawn mowing and cleanup. No Weed Whip</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $36.00
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/119194604/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/119194604/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Supplies Charge
+            
+            <p class='wv-table__cell--nested'>✅️ *** Template *** Delete and fill 🚩</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $10.00
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/121799119/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/121799119/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Surcharge - Cancellation/Lock-out fee
+            
+            <p class='wv-table__cell--nested'>Fee assessed for not being able to provide a service.</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $20.00
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/131556951/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/131556951/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Surcharge - Hazmat Environment
+            
+            <p class='wv-table__cell--nested'></p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $50.00
+            <p class="wv-table__cell--nested">+ MN Sales</p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/124196033/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/124196033/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Surcharge - Late Fee
+            
+            <p class='wv-table__cell--nested'></p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $25.00
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/131555284/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/131555284/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Test Service
+            
+            <p class='wv-table__cell--nested'>To view invoice</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $0.00
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/92281170/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/92281170/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Website Creation
+            
+            <p class='wv-table__cell--nested'>Domain, Initial Design w/ 9 pages, 50 Product Introductory Plan w/o custom Descriptions</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $300.00
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/108036935/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/108036935/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Z - Junk - Mileage
+            
+            <p class='wv-table__cell--nested'>Waseca to Rochester .56/mi</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $30.80
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/92960387/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/92960387/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+        <tr class='wv-table__row'>
+          <td class='wv-table__cell text-break product_name'>
+            Z - Junk - Mileage
+            
+            <p class='wv-table__cell--nested'>Kasota</p>
+          </td>
+          <td class='wv-table__cell--amount'>
+            $18.48
+            <p class="wv-table__cell--nested"></p>
+          </td>
+          <td class='wv-table__cell--actions'>
+            <a href='/products/17354311/edit/92312202/?from=selling' class='wv-tooltip__target wv-table__action js-edit-item' rel='product'>
+              <span class='wv-tooltip--top'>Edit</span>
+              <svg class="wv-svg-icon"><use href="#wvi-edit"></use></svg>
+            </a>
+            
+            <a href='javascript:void(0);' dataHref='/products/17354311/92312202/?from=selling' class='wv-tooltip__target wv-table__action wv-table__action--danger js-del-item' rel='product'>
+              <span class='wv-tooltip--top'>Delete</span>
+              <svg class="wv-svg-icon"><use href="#wvi-delete"></use></svg>
+            </a>
+            
+          </td>
+        </tr>
+      
+    </tbody>
+  </table>
+
+
+  <div id="dialog"></div>
+</div>
+
+    
+</div>
+              </div>
+            </div>
+          </main>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+  <script>
+    
+    window.NAV_IDENTITY_BUSINESS_ID = '10fbe75b-5988-4ab1-a8fe-c2478781bb38'
+    window.NAV_CURRENT_PAGE = 'sales_products_and_services'
+    window.NAV_HOST_APPLICATION = 'accounting';
+  </script>
+  <script type="module" src="https://wave-prod-nav-static.s3.amazonaws.com/branches/main/static/js/main.js"></script>
+
+  
+    <script type="module">
+        import SessionManager from "https://d1lchsxkq6tidf.cloudfront.net/3.0.1/bundle.js";
+
+        SessionManager.init({
+          tokenExpiryURL: "https://api.waveapps.com/oauth2/token/expiry/",
+          tokenTouchURL: "https://api.waveapps.com/oauth2/token/touch/",
+          logoutURL: "https://my.waveapps.com/logout/"
+        });
+    </script>
+  
+  
+  
+
+<script type="text/javascript">
+// -------------------- BUSINESS INDEPENDENT --------------------
+//
+var wave = {};
+wave.urls = {};
+wave.formats = {};
+
+// Country info URLs
+wave.urls.PROVINCE_LIST = '/profiles/provinces/';
+wave.urls.CURRENCY_BY_COUNTRY = "/profiles/currency_by_country/";
+
+// Date formats
+wave.formats.SHORT_DATE_FORMAT = "%Y-%m-%d";
+
+wave.USER_FIRST_DAY = false;
+
+
+// -------------------- BUSINESS DEPENDENT --------------------
+//
+
+wave.BUSINESS_ID = 17354311;
+wave.BUSINESS_IS_SETUP = ("True".toLowerCase() === 'true');
+wave.BUSINESS_IS_PERSONAL = false;
+wave.BUSINESS_CURRENCY_SYMBOL = "$";
+
+// User Account page
+wave.urls.USER_ACCOUNT_PAGE = '/integrations/17354311/';
+
+// Accounts
+wave.urls.ACCOUNT_DROPDOWN = '/accounting/dropdown_list/17354311/';
+wave.urls.ACCOUNT_CURRENCIES = '/accounting/ajax/currency/17354311/';
+
+// Products
+wave.urls.PRODUCT_LIST = '/products/17354311/';
+wave.urls.PRODUCT_BUYING_LIST = '/products/17354311/buying/';
+wave.urls.PRODUCT_SELLING_LIST = '/products/17354311/selling/';
+
+// Currency
+wave.urls.CURRENCY_RATE = '/currency/currency_exchange/17354311/';
+wave.urls.EXCHANGE_RATE = '/currency/currency_exchange/17354311/';
+wave.DEFAULT_CURRENCY_ID = '199';
+
+// Date formats
+wave.formats.DATE_FORMAT = '%Y-%m-%d';
+wave.formats.PYTHON_DATE_FORMAT = '%Y-%m-%d';
+
+wave.urls.CATEGORIZATION_TOOL = "/categorization/tool/17354311/";
+wave.urls.MANUAL_UPLOAD = "/manual_import/tool/manual/17354311/";
+wave.urls.TRANSACTIONS = "/17354311/transactions/redirect/";
+
+// "Add account" links
+wave.urls.CATEGORIZATION_ACCOUNTS = new Array();
+
+    wave.urls.CATEGORIZATION_ACCOUNTS[17354311]="/accounting/17354311/";
+
+    wave.urls.CATEGORIZATION_ACCOUNTS[17354310]="/accounting/17354310/";
+
+
+
+</script>
+
+
+  <script src="https://d3pgswpng8id0l.cloudfront.net/sitestatic/js/output.0d3703c28d9a.js"></script>
+<script src="https://d3pgswpng8id0l.cloudfront.net/sitestatic/js/output.b3186f7185f5.js"></script>
+<script src="https://d3pgswpng8id0l.cloudfront.net/sitestatic/js/output.3ce28c49306f.js"></script>
+
+  <script>
+    // Configure paths for old libs.
+    require.config({
+      baseUrl: 'https://d3pgswpng8id0l.cloudfront.net/sitestatic/js/built',
+      paths: {
+        ajaxupload: '../lib/ajaxupload',
+        base64: '../lib/base64',
+        date: '../lib/date',
+        dateutils: '../lib/dateutils',
+        ejs: '../lib/ejs.min',
+        dynamic_formset: '../lib/dynamic-formset',
+        keymaster: '../lib/keymaster',
+        jquery_alphanumeric: '../lib/jquery.alphanumeric',
+        jquery_ba_bbq: '../lib/jquery.ba-bbq',
+        jquery_cookie: '../lib/jquery.cookie',
+        jquery_forceredraw: '../lib/jquery.forceredraw-1.0.3',
+        jquery_formatcurrency: '../lib/jquery.formatCurrency-1.4.0/jquery.formatCurrency-1.4.0.pack',
+        jquery_hashchange: '../lib/jquery.hashchange',
+        jquery_passwordstrength_meter: '../lib/jquery.passwordStrengthMeter',
+        jquery_tipsy: '../lib/jquery.tipsy',
+        jquery_showpassword: '../lib/jquery.showpassword',
+        jquery_url: '../lib/jquery.url',
+        jquery_mincolors: '../lib/jquery.miniColors.min',
+        jquery_form: '../lib/jquery.form',
+        searchbox: '../lib/searchbox',
+        jquery_multiselect: '../lib/jquery.multiSelect',
+        jquery_payment: "../lib/jquery.payment",
+        guiders: "../lib/guiders/guiders-2.0.0",
+        jquery_autocomplete: "../lib/jquery.autocomplete.min"
+       }
+    });
+  </script>
+
+  <script>require.config({paths:{text:"../vendor/require/text",domReady:"../vendor/require/domReady",cs:"../vendor/require/cs",json:"../vendor/require/json",use:"../vendor/require/use",moment:"../vendor/moment/moment",bootstrap:"empty:",jquery:"../vendor/jquery/jquery-1.7.2",jquery_ui:"../vendor/jquery_ui/jquery-ui-1.9.2.custom",jquery_mincolors:"../vendor/jquery/jquery.miniColors.min",jquery_cookie:"../vendor/jquery/jquery.cookie",pnotify:"../vendor/pines/jquery.pnotify",zcharts:"../vendor/charts/zingchart-html5-min",select2:"../vendor/select2/select2",accounting:"../vendor/accounting/accounting",lodash:"../vendor/lodash/lodash",backbone:"../vendor/backbone/backbone",backbone_forms:"../vendor/backbone/backbone-forms.amd",backbone_stickit:"../vendor/backbone/backbone.stickit",handlebars:"../vendor/handlebars/handlebars-1.0.0.beta.6",wave_datepicker:"../vendor/wave/wave-datepicker","core/main":"float/main","common/main":"float/main",},shim:{moment:{exports:"moment",},},});define("bootstrap",function(){return null;});require(["moment"],function(moment){window.moment=moment;});require.config({paths:{'float/main':'float-main-7b83d0fe52562befd54bc73cbb479861'}});require.config({paths:{'main':'main-81dc478c1cd3996c2a7d84dde18bb17e'}});require.config({paths:{'sales_tax/main':'sales_tax-main-6a5dbf9ec36d2525507c32e839095455'}});require.config({paths:{'invoices/main':'invoices-main-ee980b6304b18b92dde0fa02336e0d91'}});require.config({paths:{'invoice_settings/main':'invoice_settings-main-7f16086bd527cecf768176b205795bba'}});require.config({paths:{'bills/main':'bills-main-3933b098014a2bcc42f88b4c7659a0b2'}});require.config({paths:{'personal/budgeting/main':'personal-budgeting-main-ec0e8b779c2da2e135d6b9c709729b10'}});require.config({paths:{'personal/accounts_list/main':'personal-accounts_list-main-635d8813f70949eb5a0974331b5ede36'}});require.config({paths:{'personal/investments/main':'personal-investments-main-04a2083adda794d9397fcf04c077c389'}});require.config({paths:{'validate_delete':'validate_delete-ba62e8c8bd68800518ef1136e96dbc29'}});require.config({paths:{'clients/main':'clients-main-a6257b9db69edc5e9097cb289566a659'}});require.config({paths:{'object_exists':'object_exists-cc7216b400acccf5ea3002ffc1089235'}});;</script>
+
+  <script>
+    // Global UI logic are included in here.
+    require(['float/main'], function (Float) {
+      Float.GlobalNav.start();
+    });
+  </script>
+
+    <script>
+      require(['main']); // Gear dropdowns, etc. (should be moved elsewhere later)
+      // To fix float dropdowns on touch-enabled devices.
+      // Our version of the Bootstrap dropdown plugin is
+      // out of date, and doesn't work with touch-enabled
+      // devices. This is a "shim" to fix that.
+      $('body').on('touchstart.dropdown', '.dropdown-menu', function (e) { e.stopPropagation(); });
+    </script>
+
+    
+    
+
+      
+      <script>(function(){
+  var FLAGS = {
+    'payroll_integration': true,'page_help': true,'net_promoter_survey': true,'ad_wide_top': true,'opt_in_survey': true,'integrations': true,'integrations-shoeboxed': true,'integrations-etsy': true,'cheques': false,'marketplaces': false,'integrations-paypal': true,'refer-a-friend': true,'invoices': false,'sales-tax-views': false,'payroll_integration_available_in_us': true,'stripe': false,'performance-dashboard-charts': false,'brian': false,'invoices_accept_payments': true,'invoices_mark_as_sent': true,'invoices-selectively-disable-wave-payments': true,'performance-dashboard-aged-receivables-payables': false,'performance-dashboard-net-income': false,'add-category-from-transactions': true,'add-payment-account-from-transactions': true,'transaction-save-slow': true,'bulk-categorization': true,'call-to-action-on-readonly-invoices-and-estimates': true,'export-receipts-images': true,'transactions-ajax-beforeunload-prompt': false,'recurring-invoices': true,'reports-pdf-export': true,'uk-stripe-payments': true,'cash-based-accounting': false,'invoice-reminders': true,'copy-invoices': true,'verify-transactions': true,'ie-stripe-payments': true,'account-transactions-report-balance': true,'pay-with-stored-card': true,'save-credit-cards': true,'aud-stripe-payments': true,'premium-services-sign-up': true,'invoice-readonly-rop': false,'pro_network': true,'categorization-onboarding-tour': true,'receipt-of-payment': true,'yodlee-enabled': true,'request-metadata': false,'custom-categories-experiment': true,'display-moved-financial-transactions': true,'display-journal-financial-transactions': true,'bank-reconciliation': true,'wave-pulse-dashboard-charts': true,'invoice-onboarding': true,'reports-trial-balance': true,'bank-reconciliation-clearance-date': true,'bank-rec-guider-tour': true,'multi-currency-bank-reconciliation': true,'customer-statements': false,'ce-migration': false,'sloth-chat-create-invoice': true,'clicktale-create-invoice': true,'reports-sales-tax-calculation-fix': true,'invoice-customer-statements': true,'pdfly-contemporary': true,'customer-statements-onboarding': true,'pdfly-original': true,'pdfly-standard': true,'payments-only-integration-research': false,'payments-and-accounting-integration-research': false,'angular-send-modal': true,'disabled-wpp-users': false,'wpp-users': true,'bfmsurvey': false,'acct-enable-prime-payment-insights': true,'survey_buy_receivables': false,'wpp-pay-with-stored-card': true,'wpp-save-payment-method': true,'next-invoicing__experienced': false,'next-invoicing__new': false,'pdfly-classic': true,'pdfly-nextcontemporary': true,'pdfly-nextmodern': true,'classic-accounting-qualaroo-for-next': false,'next-invoicing-list-page': false,'integrations-adp': false,'shared-services-read-from': false,'enable-default-reminders-settings': true,'accounting-cde-cf-worker': true,'integrations-shopify': true,'enable-purging-reminders': true
+    },
+    SWITCHES = {
+    'verisign-seal': true,'adgear-bottom': true,'adgear-business-savings': true,'run-daily-harvest': false,'run-scheduled-emails': true,'run-daily-fi-refresh': false,'csv-import-ignore-bare-headers': true,'enable-weekly-email-cleanup': true,'temporary_account_suspension': true,'all-periodic-tasks': true,'task-cleanup-stored-csv': true,'task-cleanup-weekly-email': true,'task-daily-report-of-accounts': true,'task-fi-refresh': false,'task-freshbooks-import': true,'task-nightly-harvest': false,'task-send-triggered-emails': true,'task-update-currency-rate': true,'task-weekly-email': false,'chrome-webstore': true,'mozilla-marketplace': true,'activate-accounting-shims': false,'activate-new-bookkeeping': true,'activate-transfers-bookkeeping': true,'create-budget-during-fi-download': false,'active-alchemy-autocat': true,'nightly-invoice-estimate-status-update': true,'can-make-payments': true,'users-can-sign-up-to-enable-payments': true,'all-elastic-search': false,'recurring-list-use-elastic': false,'atomic-bookkeeping': true,'periodic-invoice-reminder-update': true,'receipt-of-payment': false,'recurring-payments': false,'disable-db-validation': false,'disable-moved-financial-transactions-generation': false,'disable-journal-financial-transactions-generation': false,'enable-webhooks': false,'enable-automerge': false,'message-bus': true,'modal-invoicing': true,'invoice-almost-overdue-task': true,'stripe-provisioning': false,'dashboard-tiles-webinar-message': false,'always-invoice-pay-button': false,'disable-callouts': false,'can-make-wpp-payments': true,'enable-payment-event-webhook-processing': true,'enable-stripe-threat-metrix': true,'disable-wpp-signup': false,'retargeting-cookie': true,'requeue-bookkeeping': false,'acct-enable-async-bookkeeping': false,'acct-enable-prime-invoice-insights': false,'acct-enable-prime-payment-insights': false,'enable-full-story': true,'stripe-saved-payment-method-readonly-mode': true,'disable-bookkeeping-orphanage': false,'allow-google-contacts-import': false,'float-callouts-enabled': true,'enable-payroll-callout': true,'disable-wpp-canada-update': false,'enable-next-add-edit': false,'customize-invoice-columns': true,'next-accounting-invoicing-sync': false,'shared-services-sales-tax-shim': false,'collaborators-with-send-permissions': true,'next-accounting-account-sync': false,'new-navigation': false,'next-recurring-invoices-redirect': false,'call-taplytics': true,'enable-bank-payments': false,'payments-maintenance-mode': false,'enable-bank-payments-modal': true,'task-integrations-check-migration-status': true,'task-wave-payments-check-migration-status': true,'inv-read-only-recurring-authorization-variant': false,'enable-invoice-migration': true,'user-management-enabled': true,'{&#x27;active&#x27;: False, &#x27;note&#x27;: &#x27;Use to shut down a queued up detect and fix orphanage run.&#x27;, &#x27;name&#x27;: &#x27;dis': true,'bank-statement-upload-disabled': false,'enable-next-customer-list': true,'edge-issue-banner': true
+    },
+    SAMPLES = {
+    'api-validation-sample': true
+    };
+  window.waffle = {
+    "flag_is_active": function waffle_flag(flag_name) {
+      
+      return !!FLAGS[flag_name];
+    },
+    "switch_is_active": function waffle_switch(switch_name) {
+      
+      return !!SWITCHES[switch_name];
+    },
+    "sample_is_active": function waffle_sample(sample_name) {
+      
+      return !!SAMPLES[sample_name];
+    },
+    "FLAGS": FLAGS,
+    "SWITCHES": SWITCHES,
+    "SAMPLES": SAMPLES
+  };
+})();
+</script>
+
+      <script type="text/javascript" src="https://payments-cde.waveapps.com/panitize/1.0.1/panitize.min.js"></script>
+    
+<script type="text/javascript" src="https://payments-cde.waveapps.com/panitize/1.0.1/panitize.min.js"></script>
+<script>
+  // Disable form button on submit.
+  require(['float/main'], function (Float) {
+    Float.SettingsForm.start({el: $('#AppContent form')});
+  });
+</script>
+
+    <script type='text/javascript'>
+    require(['jquery','validate_delete'], function($, validateDelete){
+        $('#AppContent').on('click', '.js-del-item', validateDelete);
+    });
+    require(['jquery','object_exists'], function($, doesObjectExist){
+        $('#AppContent').on('click', '.js-edit-item', doesObjectExist);
+    });
+</script>
+
+
+    
+
+
+
+  
+
+  <script src="https://d1550azcfnhz8l.cloudfront.net/branches/main/js/load-svg-sprite.js"></script>
+  <script>
+    var spritePath = "https://d1550azcfnhz8l.cloudfront.net/branches/main/svg-sprite-prefixed.svg",
+      decorSpritePath = "https://d1550azcfnhz8l.cloudfront.net/branches/main/svg-decor-sprite.svg";
+    loadSvgSprite([spritePath, decorSpritePath]);
+  </script>
+  <script src="https://d1550azcfnhz8l.cloudfront.net/branches/main/js/toggleable.js" charset="utf-8"></script>
+<script>window.__CF$cv$params={r:'a597de429f66acd0',t:'MTc5NDUxMDk1NQ==',u:'01a038a614927fa2a2bc761cfe4e9d27',ut:'1Ne2nAEkqTYKgi0nLjSjcJYtHdalpyoHPVnvRWOS3Ys-1794510956-1.2.1.1-NN7YHqxzCsZzRrO_VbvcNmcjgbmkNOHR2RIHGO8IOCv6Xm3Y0nrUjbWvqNoXkr_mFsTl9raumYn6NCsU0ytupcYhESvl.mcMqoxJr98DXB0',i:60};(function(){if(!document.body)return;var l=window.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/precursor/main.js?ray=a597de429f66acd0',s=document.createElement('script');s.src=o?new URL(u,o).href:u;document.head.appendChild(s);})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"3244e501f2bb42ec80b9e8646278a331","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

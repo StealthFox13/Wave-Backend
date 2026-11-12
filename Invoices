@@ -1,0 +1,257 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    
+  <script>
+    window.dataLayer = window.dataLayer || [];
+  </script>
+  <script>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js',
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-HP8P');
+  </script>
+
+
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Wave</title>
+
+      <link rel="apple-touch-icon" sizes="180x180" href="https://d1550azcfnhz8l.cloudfront.net/public/wavicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="https://d1550azcfnhz8l.cloudfront.net/public/wavicon/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="https://d1550azcfnhz8l.cloudfront.net/public/wavicon/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="https://d1550azcfnhz8l.cloudfront.net/public/wavicon/site.webmanifest">
+  <link rel="mask-icon" href="https://d1550azcfnhz8l.cloudfront.net/public/wavicon/safari-pinned-tab.svg" color="#308df8">
+  <link rel="shortcut icon" href="https://d1550azcfnhz8l.cloudfront.net/public/wavicon/favicon.ico">
+
+  <meta name="theme-color" content="#ffffff">
+  <meta name="msapplication-square150x150logo" content="https://d1550azcfnhz8l.cloudfront.net/public/wavicon/mstile-150x150.png">
+  <meta name="msapplication-square310x310logo" content="https://d1550azcfnhz8l.cloudfront.net/public/wavicon/mstile-310x310.png">
+  <meta name="msapplication-square70x70logo" content="https://d1550azcfnhz8l.cloudfront.net/public/wavicon/mstile-70x70.png">
+  <meta name="msapplication-wide310x150logo" content="https://d1550azcfnhz8l.cloudfront.net/public/wavicon/mstile-310x150.png">
+  <meta name="msapplication-TileColor" content="#2d89ef">
+
+
+    <link
+      rel="chrome-webstore-item"
+      href="https://chrome.google.com/webstore/detail/knpkfcpnjfbniadmfchjpcigfhookhaa"
+    />
+    <style>
+      html,
+      body {
+        background: #fff;
+        margin: 0;
+        padding: 0;
+      }
+      #app-shell {
+        z-index: 0;
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        box-sizing: border-box;
+        position: fixed;
+        top: 0;
+        right: 0;
+        left: 0;
+        bottom: 0;
+        pointer-events: none;
+        background: white;
+        transition: opacity 0.05s ease-out;
+      }
+      #app-shell__container {
+        flex: 1;
+        width: 100%;
+        display: flex;
+      }
+      #app-shell__body {
+        flex-grow: 1;
+        align-self: center;
+        text-align: center;
+      }
+      #Content {
+        height: 100%;
+      }
+      #Content:not(:empty) + #app-shell {
+        position: fixed;
+        opacity: 0;
+        align-items: center;
+      }
+      .wv-spinner-container--absolute {
+        position: absolute;
+      }
+      .nav-hidden {
+        display: none !important;
+      }
+      @media (min-width: 768px) {
+        #app-shell {
+          flex-direction: column;
+        }
+      }
+
+      /* Ada styles */
+      @media screen and (min-height: 550px) {
+        iframe#ada-chat-frame {
+          max-height: 90%;
+        }
+      }
+    </style>
+
+    <link
+      rel="stylesheet"
+      href="https://d1550azcfnhz8l.cloudfront.net/branches/main/buoyant-app.css"
+    />
+
+    
+<script>
+  (function(e,t){var n=e.amplitude||{_q:[],_iq:{}};var r=t.createElement("script")
+  ;r.type="text/javascript";r.async=true
+  ;r.src="https://dwdqz3611m4qq.cloudfront.net/static-assets/prod/global/assets/js/vendor/amplitude/amplitude-8.21.9-min.gz.js"
+  ;r.onload=function(){if(e.amplitude.runQueuedFunctions){
+  e.amplitude.runQueuedFunctions()}else{
+  console.log("[Amplitude] Error: could not load SDK")}}
+  ;var i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)
+  ;function s(e,t){e.prototype[t]=function(){
+  this._q.push([t].concat(Array.prototype.slice.call(arguments,0)));return this}}
+  var o=function(){this._q=[];return this}
+  ;var a=["add","append","clearAll","prepend","set","setOnce","unset"]
+  ;for(var u=0;u<a.length;u++){s(o,a[u])}n.Identify=o;var c=function(){this._q=[]
+  ;return this}
+  ;var l=["setProductId","setQuantity","setPrice","setRevenueType","setEventProperties"]
+  ;for(var p=0;p<l.length;p++){s(c,l[p])}n.Revenue=c
+  ;var d=["init","logEvent","logRevenue","setUserId","setUserProperties","setOptOut","setVersionName","setDomain","setDeviceId","setGlobalUserProperties","identify","clearUserProperties","setGroup","logRevenueV2","regenerateDeviceId","logEventWithTimestamp","logEventWithGroups","setSessionId"]
+  ;function v(e){function t(t){e[t]=function(){
+  e._q.push([t].concat(Array.prototype.slice.call(arguments,0)))}}
+  for(var n=0;n<d.length;n++){t(d[n])}}v(n);n.getInstance=function(e){
+  e=(!e||e.length===0?"$default_instance":e).toLowerCase()
+  ;if(!n._iq.hasOwnProperty(e)){n._iq[e]={_q:[]};v(n._iq[e])}return n._iq[e]}
+  ;e.amplitude=n})(window,document);
+
+  amplitude.getInstance().init("34a76f6e38ab182d418e3abcdac0c208", null, {
+    cookieName: 'amplitude',
+    includeReferrer: true,
+    includeUtm: true,
+  });
+</script>
+
+
+    
+<script>
+  // Resolve a globally accessible window.adaReady promise when Ada is ready
+  // Allows us to do window.adaReady.then(...) in our code
+  window.adaReady = new Promise(resolve => {
+    window.adaOnLoad = () => resolve();
+  })
+  
+</script>
+<script
+  id="__ada"
+  async
+  data-lazy
+  data-handle="waveapps-gr"
+  
+  onload="window.adaOnLoad()"
+  src="https://static.ada.support/embed2.js"
+></script>
+
+
+    <script type="module" crossorigin src="/assets/index-B5EX7gwd.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-CouWTJ28.css">
+  </head>
+  <body>
+    
+  <noscript>
+    <iframe
+      src="https://www.googletagmanager.com/ns.html?id=GTM-HP8P"
+      height="0"
+      width="0"
+      style="display:none;visibility:hidden"
+    >
+    </iframe>
+  </noscript>
+
+
+
+    <!-- Buoyant SVG Sprite -->
+    <script src="https://d1550azcfnhz8l.cloudfront.net/branches/main/js/load-svg-sprite.js"></script>
+    <script>
+      var spritePath =
+          'https://d1550azcfnhz8l.cloudfront.net/branches/main/svg-sprite-prefixed.svg',
+        decorSpritePath =
+          'https://d1550azcfnhz8l.cloudfront.net/branches/main/svg-decor-sprite.svg';
+      loadSvgSprite([spritePath, decorSpritePath]);
+    </script>
+
+    
+  <script>
+    (function(){
+      let scriptEle = document.createElement('script');
+      const ChargebeeJsURL = 'https://dwdqz3611m4qq.cloudfront.net/static-assets/prod/global/assets/js/vendor/chargebee/chargebee.js';
+
+      scriptEle.setAttribute('src', ChargebeeJsURL);
+      scriptEle.setAttribute('type', 'text/javascript');
+      scriptEle.setAttribute('async', '');
+
+      document.body.appendChild(scriptEle);
+
+      const initChargebee = (retries = 5, delay = 100) => {
+        if (window.Chargebee) {
+          window.Chargebee.init({
+            site: "waveapps",
+          });
+        } else if (retries > 0) {
+          console.log(`Chargebee: window.Chargebee is not defined, retrying in ${delay}ms...`);
+          setTimeout(() => initChargebee(retries - 1, delay), delay);
+        } else {
+          console.error('Chargebee: Failed to initialize');
+        }
+      };
+
+      scriptEle.addEventListener('load', () => {
+        initChargebee();
+      });
+
+      scriptEle.addEventListener('error', (ev) => {
+        console.log('Error on loading chargebee', ev);
+      });
+    })();
+  </script>
+
+
+
+    <div id="Content"></div>
+    <div id="app-shell">
+      <div id="app-shell__body" class="wv-spinner-container--absolute wv-spinner--centered">
+        <div class="wv-spinner wv-spinner--large"></div>
+      </div>
+      <div class="wv-top-bar"></div>
+      <div id="app-shell__container">
+        <div class="wv-side-bar"></div>
+      </div>
+      <div class="wv-bottom-bar"></div>
+    </div>
+    
+  <script src="https://payments-cde.waveapps.com/checkout/11.21.0/checkout.min.js"></script>
+  <script src="https://payments-tracking.waveapps.com/tracking/1.0.0/tracking.min.js"></script>
+
+
+
+    <script>
+      // adding this to prevent js console error:
+      // Loading the Google Maps JavaScript API without a callback is not supported: https://developers.google.com/maps/documentation/javascript/url-params#required_parameters
+      window.gMapsInit = function () {};
+    </script>
+  <script>window.__CF$cv$params={r:'a597e1aaec12acd0',t:'MTc5NDUxMTA5NQ==',u:'01a038a614927fa2a2bc761cfe4e9d27',ut:'lesmI0oA_v.dz3gbX3Y44PqFH_WHPx5Ecv6nKsWyMSg-1794511095-1.2.1.1-YLqtsyMWuLdeTJ5nqwNfMagmT5OSpn5XmJkM69LOlPL1v6VMvHru_ZGkAtcPXP13NfM.UEhPwijuOobUeS8r5.vo2C1QZJfdUxaV8O4VN5M',i:60};(function(){if(!document.body)return;var l=window.location,o;try{o=new URL(l.origin).origin}catch(e){try{o=new URL(new URL(l.href).origin).origin}catch(e){o=''}}var u='/cdn-cgi/challenge-platform/scripts/precursor/main.js?ray=a597e1aaec12acd0',s=document.createElement('script');s.src=o?new URL(u,o).href:u;document.head.appendChild(s);})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"3244e501f2bb42ec80b9e8646278a331","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
